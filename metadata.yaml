@@ -1,0 +1,38 @@
+_repo: The-Expositor-s-Bible--The-First-Epistle-to-the-Corinthians_42354
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42354-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Dods, Marcus
+    alias: Dodds, Marcus
+    birthdate: 1834
+    deathdate: 1909
+    gutenberg_agent_id: '5058'
+    url: http://www.gutenberg.org/2009/agents/5058
+    wikipedia: http://en.wikipedia.org/wiki/Marcus_Dods_%28theologian%29
+  editor:
+    agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Clear, Claudius
+    - Wace, Walter E.
+    - Nicoll, William Robertson, Sir
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2013-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Corinthians, 1st -- Commentaries'
+- !lcc 'BS'
+title: 'The Expositor''s Bible: The First Epistle to the Corinthians'
+url: http://www.gutenberg.org/ebooks/42354
